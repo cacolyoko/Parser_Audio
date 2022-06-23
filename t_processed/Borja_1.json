@@ -1,187 +1,187 @@
 [
     {
-        "word": "aproxim",
-        "start": 0.0,
-        "end": 0.0
+        "word": "aproximo",
+        "token": "aproxim",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelero",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "levant",
-        "start": 0.0,
-        "end": 0.0
+        "word": "levanto",
+        "token": "levant",
+        "start": 0.0
     },
     {
         "word": "pie",
-        "start": 0.0,
-        "end": 0.0
+        "token": "pie",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelerador",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "medi",
-        "start": 0.0,
-        "end": 0.0
+        "word": "media",
+        "token": "medi",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "cerc",
-        "start": 0.0,
-        "end": 0.0
+        "word": "cerca",
+        "token": "cerc",
+        "start": 0.0
     },
     {
-        "word": "manteg",
-        "start": 0.0,
-        "end": 0.0
+        "word": "mantengo",
+        "token": "manteng",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelerador",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "izquierd",
-        "start": 0.0,
-        "end": 0.0
+        "word": "izquierda",
+        "token": "izquierd",
+        "start": 0.0
     },
     {
-        "word": "libr",
-        "start": 0.0,
-        "end": 0.0
+        "word": "libre",
+        "token": "libr",
+        "start": 0.0
     },
     {
-        "word": "vien",
-        "start": 0.0,
-        "end": 0.0
+        "word": "viene",
+        "token": "vien",
+        "start": 0.0
     },
     {
-        "word": "nadi",
-        "start": 0.0,
-        "end": 0.0
+        "word": "nadie",
+        "token": "nadi",
+        "start": 0.0
     },
     {
         "word": "entro",
-        "start": 0.0,
-        "end": 0.0
+        "token": "entro",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "gir",
-        "start": 0.0,
-        "end": 0.0
+        "word": "giro",
+        "token": "gir",
+        "start": 0.0
     },
     {
-        "word": "izquierd",
-        "start": 0.0,
-        "end": 0.0
+        "word": "izquierda",
+        "token": "izquierd",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "manteng",
-        "start": 0.0,
-        "end": 0.0
+        "word": "mantengo",
+        "token": "manteng",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelerador",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "gir",
-        "start": 0.0,
-        "end": 0.0
+        "word": "giro",
+        "token": "gir",
+        "start": 0.0
     },
     {
-        "word": "izquierd",
-        "start": 0.0,
-        "end": 0.0
+        "word": "izquierda",
+        "token": "izquierd",
+        "start": 0.0
     },
     {
-        "word": "atencion",
-        "start": 0.0,
-        "end": 0.0
+        "word": "atención",
+        "token": "atencion",
+        "start": 0.0
     },
     {
-        "word": "ciclist",
-        "start": 0.0,
-        "end": 0.0
+        "word": "ciclista",
+        "token": "ciclist",
+        "start": 0.0
     },
     {
-        "word": "fren",
-        "start": 0.0,
-        "end": 0.0
+        "word": "freno",
+        "token": "fren",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelero",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "manteng",
-        "start": 0.0,
-        "end": 0.0
+        "word": "mantengo",
+        "token": "manteng",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelerador",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "gir",
-        "start": 0.0,
-        "end": 0.0
+        "word": "giro",
+        "token": "gir",
+        "start": 0.0
     },
     {
-        "word": "derech",
-        "start": 0.0,
-        "end": 0.0
+        "word": "derecha",
+        "token": "derech",
+        "start": 0.0
     },
     {
-        "word": "salg",
-        "start": 0.0,
-        "end": 0.0
+        "word": "salgo",
+        "token": "salg",
+        "start": 0.0
     },
     {
-        "word": "rotond",
-        "start": 0.0,
-        "end": 0.0
+        "word": "rotonda",
+        "token": "rotond",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelero",
+        "token": "aceler",
+        "start": 0.0
     },
     {
-        "word": "aceler",
-        "start": 0.0,
-        "end": 0.0
+        "word": "acelero",
+        "token": "aceler",
+        "start": 0.0
     }
 ]

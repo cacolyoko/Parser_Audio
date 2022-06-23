@@ -1,0 +1,24 @@
+acelero
+me aproximo a rotonda
+mantengo el acelerador
+rotonda media
+mantengo el acelerador
+rotonda cerca
+centro ocupado
+levanto el acelerador
+izquierda libre
+entro en la rotonda
+acelero
+giro a la derecha
+intermitente a la izquierda
+giro a la izquierda en la rotonda
+mantengo el acelerador
+freno
+acelero
+intermitente a la derecha
+acelero
+giro a la derecha
+salgo de la rotonda
+enderezo
+acelero
+acelero
