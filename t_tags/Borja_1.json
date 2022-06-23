@@ -1,0 +1,141 @@
+{
+    "RNDBT-FAR": [
+        {
+            "word": "aproxim",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "rotond",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "ACEL-ON": [
+        {
+            "word": "aceler",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "ACEL-OFF": [
+        {
+            "word": "levant",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "pie",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "aceler",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "RNDBT-MED": [
+        {
+            "word": "rotond",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "medi",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "RNDBT-NEAR": [
+        {
+            "word": "rotond",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "cerc",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "RNDBT-CLEAR": [
+        {
+            "word": "vien",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "nadi",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "RNDBT-IN": [
+        {
+            "word": "entro",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "rotond",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "TURN-L": [
+        {
+            "word": "gir",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "izquierd",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "WARN-VEH": [
+        {
+            "word": "atencion",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "ciclist",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "BRK": [
+        {
+            "word": "fren",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "TURN-R": [
+        {
+            "word": "gir",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "derech",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ],
+    "RNDBT-OUT": [
+        {
+            "word": "salg",
+            "start": 0.0,
+            "end": 0.0
+        },
+        {
+            "word": "rotond",
+            "start": 0.0,
+            "end": 0.0
+        }
+    ]
+}
