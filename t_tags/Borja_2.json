@@ -3,7 +3,7 @@
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 1.08
         },
         {
             "tag": "T-ON",
@@ -14,12 +14,12 @@
         {
             "word": "aproximo",
             "token": "aproxim",
-            "start": 0.0
+            "start": 1.24
         },
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 2.14
         },
         {
             "tag": "APROX",
@@ -30,12 +30,12 @@
         {
             "word": "mantengo",
             "token": "manteng",
-            "start": 0.0
+            "start": 3.01
         },
         {
             "word": "acelerador",
             "token": "aceler",
-            "start": 0.0
+            "start": 3.12
         },
         {
             "tag": "T-HOLD",
@@ -46,12 +46,12 @@
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 4.29
         },
         {
             "word": "media",
             "token": "medi",
-            "start": 0.0
+            "start": 5.15
         },
         {
             "tag": "RND-MD",
@@ -62,12 +62,12 @@
         {
             "word": "mantengo",
             "token": "manteng",
-            "start": 0.0
+            "start": 6.14
         },
         {
             "word": "acelerador",
             "token": "aceler",
-            "start": 0.0
+            "start": 6.26
         },
         {
             "tag": "T-HOLD",
@@ -78,12 +78,12 @@
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 9.16
         },
         {
             "word": "cerca",
             "token": "cerc",
-            "start": 0.0
+            "start": 10.0
         },
         {
             "tag": "RND-NR",
@@ -94,12 +94,12 @@
         {
             "word": "centro",
             "token": "centr",
-            "start": 0.0
+            "start": 12.02
         },
         {
             "word": "ocupado",
             "token": "ocup",
-            "start": 0.0
+            "start": 12.13
         },
         {
             "tag": "F-BUSY",
@@ -110,12 +110,12 @@
         {
             "word": "levanto",
             "token": "levant",
-            "start": 0.0
+            "start": 13.16
         },
         {
             "word": "acelerador",
             "token": "aceler",
-            "start": 0.0
+            "start": 13.25
         },
         {
             "tag": "T-OFF",
@@ -126,12 +126,12 @@
         {
             "word": "izquierda",
             "token": "izquierd",
-            "start": 0.0
+            "start": 14.28
         },
         {
             "word": "libre",
             "token": "libr",
-            "start": 0.0
+            "start": 15.04
         },
         {
             "tag": "L-FREE",
@@ -142,12 +142,12 @@
         {
             "word": "entro",
             "token": "entro",
-            "start": 0.0
+            "start": 15.12
         },
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 15.23
         },
         {
             "tag": "RND-IN",
@@ -158,7 +158,7 @@
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 16.15
         },
         {
             "tag": "T-ON",
@@ -169,12 +169,12 @@
         {
             "word": "giro",
             "token": "gir",
-            "start": 0.0
+            "start": 17.0
         },
         {
             "word": "derecha",
             "token": "derech",
-            "start": 0.0
+            "start": 17.07
         },
         {
             "tag": "TURN-R",
@@ -185,12 +185,12 @@
         {
             "word": "intermitente",
             "token": "intermitent",
-            "start": 0.0
+            "start": 18.25
         },
         {
             "word": "izquierda",
             "token": "izquierd",
-            "start": 0.0
+            "start": 19.16
         },
         {
             "tag": "LB-ON",
@@ -201,17 +201,17 @@
         {
             "word": "giro",
             "token": "gir",
-            "start": 0.0
+            "start": 20.11
         },
         {
             "word": "izquierda",
             "token": "izquierd",
-            "start": 0.0
+            "start": 20.21
         },
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 21.04
         },
         {
             "tag": "TURN-L",
@@ -222,12 +222,12 @@
         {
             "word": "mantengo",
             "token": "manteng",
-            "start": 0.0
+            "start": 24.27
         },
         {
             "word": "acelerador",
             "token": "aceler",
-            "start": 0.0
+            "start": 25.1
         },
         {
             "tag": "T-HOLD",
@@ -236,112 +236,128 @@
     ],
     "inst_15": [
         {
+            "word": "atencion",
+            "token": "atencion",
+            "start": 26.12
+        },
+        {
+            "word": "coche",
+            "token": "coch",
+            "start": 26.25
+        },
+        {
+            "tag": "CAR-NR",
+            "sentence": "atención coche"
+        }
+    ],
+    "inst_16": [
+        {
             "word": "freno",
             "token": "fren",
-            "start": 0.0
+            "start": 27.27
         },
         {
             "tag": "B-ON",
             "sentence": "freno"
         }
     ],
-    "inst_16": [
+    "inst_17": [
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 29.08
         },
         {
             "tag": "T-ON",
             "sentence": "acelero"
         }
     ],
-    "inst_17": [
+    "inst_18": [
         {
             "word": "intermitente",
             "token": "intermitent",
-            "start": 0.0
+            "start": 30.15
         },
         {
             "word": "derecha",
             "token": "derech",
-            "start": 0.0
+            "start": 32.1
         },
         {
             "tag": "RB-ON",
             "sentence": "intermitente derecha"
         }
     ],
-    "inst_18": [
+    "inst_19": [
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 32.26
         },
         {
             "tag": "T-ON",
             "sentence": "acelero"
         }
     ],
-    "inst_19": [
+    "inst_20": [
         {
             "word": "giro",
             "token": "gir",
-            "start": 0.0
+            "start": 33.24
         },
         {
             "word": "derecha",
             "token": "derech",
-            "start": 0.0
+            "start": 34.01
         },
         {
             "tag": "TURN-R",
             "sentence": "giro derecha"
         }
     ],
-    "inst_20": [
+    "inst_21": [
         {
             "word": "salgo",
             "token": "salg",
-            "start": 0.0
+            "start": 34.16
         },
         {
             "word": "rotonda",
             "token": "rotond",
-            "start": 0.0
+            "start": 34.29
         },
         {
             "tag": "RND-EXIT",
             "sentence": "salgo rotonda"
         }
     ],
-    "inst_21": [
+    "inst_22": [
         {
             "word": "enderezo",
             "token": "enderez",
-            "start": 0.0
+            "start": 35.19
         },
         {
             "tag": "TURN-STR",
             "sentence": "enderezo"
         }
     ],
-    "inst_22": [
+    "inst_23": [
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 36.02
         },
         {
             "tag": "T-ON",
             "sentence": "acelero"
         }
     ],
-    "inst_23": [
+    "inst_24": [
         {
             "word": "acelero",
             "token": "aceler",
-            "start": 0.0
+            "start": 38.01
         },
         {
             "tag": "T-ON",

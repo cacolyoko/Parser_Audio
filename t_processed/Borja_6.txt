@@ -1,0 +1,23 @@
+mantengo el acelerador
+me aproximo a rotonda
+rotonda media
+mantengo el acelerador
+rotonda cerca
+mantengo el acelerador
+izquierda ocupada
+freno en el ceda
+izquierda libre
+acelero
+entro en la rotonda
+giro a la derecha
+intermitente a la izquierda en la rotonda
+giro a la izquierda
+mantengo el acelerador
+quito el intermitente
+intermitente a la derecha
+giro a la derecha
+salgo de la rotonda
+quito el intermitente
+recto
+acelero
+mantengo el acelerador

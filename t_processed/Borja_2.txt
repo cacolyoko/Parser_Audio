@@ -13,6 +13,7 @@ giro a la derecha
 intermitente a la izquierda
 giro a la izquierda en la rotonda
 mantengo el acelerador
+atencion coche
 freno
 acelero
 intermitente a la derecha

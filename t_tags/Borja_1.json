@@ -113,6 +113,11 @@
     ],
     "inst_7": [
         {
+            "word": "no",
+            "token": "no",
+            "start": 15.52
+        },
+        {
             "word": "viene",
             "token": "vien",
             "start": 16.01
@@ -208,7 +213,7 @@
             "start": 31.08
         },
         {
-            "tag": "WARN-VEH",
+            "tag": "CAR-NR",
             "sentence": "atención ciclista"
         }
     ],

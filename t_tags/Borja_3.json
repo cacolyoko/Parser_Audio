@@ -1,0 +1,275 @@
+{
+    "inst_0": [
+        {
+            "word": "acelero",
+            "token": "aceler",
+            "start": 0.28
+        },
+        {
+            "tag": "T-ON",
+            "sentence": "acelero"
+        }
+    ],
+    "inst_1": [
+        {
+            "word": "acerco",
+            "token": "acerc",
+            "start": 1.19
+        },
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 2.02
+        },
+        {
+            "tag": "APROX",
+            "sentence": "acerco rotonda"
+        }
+    ],
+    "inst_2": [
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 2.29
+        },
+        {
+            "word": "media",
+            "token": "medi",
+            "start": 3.15
+        },
+        {
+            "tag": "RND-MD",
+            "sentence": "rotonda media"
+        }
+    ],
+    "inst_3": [
+        {
+            "word": "mantengo",
+            "token": "manteng",
+            "start": 4.06
+        },
+        {
+            "word": "acelerador",
+            "token": "aceler",
+            "start": 4.2
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador"
+        }
+    ],
+    "inst_4": [
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 6.09
+        },
+        {
+            "word": "cerca",
+            "token": "cerc",
+            "start": 6.19
+        },
+        {
+            "tag": "RND-NR",
+            "sentence": "rotonda cerca"
+        }
+    ],
+    "inst_5": [
+        {
+            "word": "izquierda",
+            "token": "izquierd",
+            "start": 8.08
+        },
+        {
+            "word": "libre",
+            "token": "libr",
+            "start": 8.18
+        },
+        {
+            "tag": "L-FREE",
+            "sentence": "izquierda libre"
+        }
+    ],
+    "inst_6": [
+        {
+            "word": "ceda",
+            "token": "ced",
+            "start": 9.28
+        },
+        {
+            "tag": "RND-IN",
+            "sentence": "ceda"
+        }
+    ],
+    "inst_7": [
+        {
+            "word": "entro",
+            "token": "entro",
+            "start": 10.08
+        },
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 10.23
+        },
+        {
+            "tag": "RND-IN",
+            "sentence": "entro rotonda"
+        }
+    ],
+    "inst_8": [
+        {
+            "word": "giro",
+            "token": "gir",
+            "start": 11.03
+        },
+        {
+            "word": "derecha",
+            "token": "derech",
+            "start": 11.14
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha"
+        }
+    ],
+    "inst_9": [
+        {
+            "word": "intermitente",
+            "token": "intermitent",
+            "start": 12.27
+        },
+        {
+            "word": "izquierda",
+            "token": "izquierd",
+            "start": 13.12
+        },
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 14.03
+        },
+        {
+            "tag": "LB-ON",
+            "sentence": "intermitente izquierda rotonda"
+        }
+    ],
+    "inst_10": [
+        {
+            "word": "giro",
+            "token": "gir",
+            "start": 14.17
+        },
+        {
+            "word": "izquierda",
+            "token": "izquierd",
+            "start": 14.25
+        },
+        {
+            "tag": "TURN-L",
+            "sentence": "giro izquierda"
+        }
+    ],
+    "inst_11": [
+        {
+            "word": "mantengo",
+            "token": "manteng",
+            "start": 17.17
+        },
+        {
+            "word": "acelerador",
+            "token": "aceler",
+            "start": 17.26
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador"
+        }
+    ],
+    "inst_12": [
+        {
+            "word": "quito",
+            "token": "quit",
+            "start": 22.09
+        },
+        {
+            "word": "intermitente",
+            "token": "intermitent",
+            "start": 22.11
+        },
+        {
+            "tag": "BLK-OFF",
+            "sentence": "quito intermitente"
+        }
+    ],
+    "inst_13": [
+        {
+            "word": "intermitente",
+            "token": "intermitent",
+            "start": 23.08
+        },
+        {
+            "word": "derecha",
+            "token": "derech",
+            "start": 23.24
+        },
+        {
+            "tag": "RB-ON",
+            "sentence": "intermitente derecha"
+        }
+    ],
+    "inst_14": [
+        {
+            "word": "giro",
+            "token": "gir",
+            "start": 24.23
+        },
+        {
+            "word": "derecha",
+            "token": "derech",
+            "start": 25.01
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha"
+        }
+    ],
+    "inst_15": [
+        {
+            "word": "salgo",
+            "token": "salg",
+            "start": 25.18
+        },
+        {
+            "word": "rotonda",
+            "token": "rotond",
+            "start": 26.03
+        },
+        {
+            "tag": "RND-EXIT",
+            "sentence": "salgo rotonda"
+        }
+    ],
+    "inst_16": [
+        {
+            "word": "acelero",
+            "token": "aceler",
+            "start": 27.25
+        },
+        {
+            "tag": "T-ON",
+            "sentence": "acelero"
+        }
+    ],
+    "inst_17": [
+        {
+            "word": "acelero",
+            "token": "aceler",
+            "start": 29.04
+        },
+        {
+            "tag": "T-ON",
+            "sentence": "acelero"
+        }
+    ]
+}
