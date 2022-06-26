@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "balmy-atom-328215",
+  "private_key_id": "d6381da3f841ddf540540f4cb560ca89c8256df6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDby5IueO/NoXlq\ntA/A/ndFs+4gyY8YoevR/1skD1SMmYmhQaQgFo81OE+9DSassCxd52YCdr2tqTlS\nu4fBRCgDXX2HeTI5LlJ1dqQ2rckc87NbP1Xh1DaNrUyx2IheJ0xNAYXJ0GmEI29G\n5YsttBgC+OQ1+Gg0zHeM6JPtKq61balW36X0pcFHmRfPP36MQagDEFZFhNG6ks95\nvWilU/GuDeqyahC2AjOKbDhIo8nwB3Bl8DUd/qqaZ/Cd5JUC9+fN8PbnrI0aWklO\ntU4ywbqpRO6WtSI9W7T0bwHYE5IUPGBbshyAYWvN0dGtuoUUPTkcm8pyNKRrFEP6\nEfXht8t7AgMBAAECggEAAVLXhmWo4fqL8ci6+EJiMzHyUNNWxcPkL0vCqD8w9GI7\nuQnPd9JFVfAaSyZ+wlSE/zrZ19uoaj7/n9HTXgq64e3fe+DzHKcfQnW/KOZFXkZc\nLsecQNSO0+w1vpSX9AQeDeBkRKIdfU96c9eI0VBUjq/qqiyzY9cyPZhUJcan7kcw\nejjUY030vbPB4sixrlHvEDVEz5SYaqNTuTs+ForYRMFfRsGKcY1kh7r0HCsj6c+P\nAVQv0nBeBw1m0VSTcVj3gvqelZgDGdsq/UmXg5ee2jZYf7cDW8j/M44pVTv2tLeR\npiITb7Z1iKmtzUcClBzt2m3W+tvh5knMIwxuSmqf+QKBgQDz4WCqtn1VvItNDKNb\nZIrYk3kYGSTAOU1/4qDhLhDa2s+Hx5pVTiJOW+B4PWPpNa6VQkeMPWUcmTeIf9E1\n3fCz8OoaD2nbX6OFmVpn2HPyW+Ad70rctwEz4KlbvD4bR7IC5hE+RFy7+ph7V42E\nuypVRaAZMRn5IxGrGj0gYIaKuQKBgQDmt8i5ti59zfaBilpWywNo6uRKBpzH8QX/\nu4u7pZsLF9k8n+5uaNTA0jXqY+984lhlmFzM77qs6Wj6B09qEEtyWEYpd4xW4VhK\n2cRxponxFVB5KzdLsff4RfucxVgIITRkHy0bqSgfwwt9Wr3wHPIF9b1Ap1tXOOJn\n3oZzbcCd0wKBgQDhgTm4QIu+FlwcP55haKN2RU7IeJ9h2tqNcMnfzY+qPn99BpTv\nYhMYr53ssJ9MyeWHgETWKQLwocAWyFFz5KeoSxC8ThpMza9PXpCYyy3TIR8nrtdj\nJRjIlmkjOPmYkf/I7GFvWRkCfGI4Uqm53LL1LC8wfBWPJ90zgEybPoXJiQKBgBhD\nQ4ykKAd63W2KCy4Nc3JZIWDXiS1Nn3/hTTSSmdd0zpedigl6ZMVSVfEsSUcs1nb4\nqumyXENK2ItSsXtJ82U2+0npFI0ebZaRiCMbjG4Z+7iCXvJK6PTnByrZZgSU2Vme\nHbRG+b09Wbv5CvhxUtJloV1nPCfUB5s8v47r/9GZAoGBAKuc4lrXmQG0chUJS5k+\ncXvh44VBbSWeWf4JOTnMclpD2jlOikOkpQWwPlDzZo5bnROEFNwyvfCdNw3vSbBm\n+GciyWgxukyno6ahuJkfCBujrCvDGPJxfDQozN/VkLjpOzAvQV0aFoPimUUWw8Tz\n00J82tASpk3RucKrV/z0WnHO\n-----END PRIVATE KEY-----\n",
+  "client_email": "tfg-cdr-speech@balmy-atom-328215.iam.gserviceaccount.com",
+  "client_id": "100495980556733460185",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tfg-cdr-speech%40balmy-atom-328215.iam.gserviceaccount.com"
+}

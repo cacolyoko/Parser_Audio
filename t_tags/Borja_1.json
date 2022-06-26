@@ -2,13 +2,13 @@
     "inst_0": [
         {
             "word": "aproximo",
-            "token": "aproxim",
-            "start": 1.28
+            "stem": "aproxim",
+            "start": 1.93
         },
         {
             "word": "rotonda",
-            "token": "rotond",
-            "start": 2.15
+            "stem": "rotond",
+            "start": 2.5
         },
         {
             "tag": "APROX",
@@ -18,8 +18,8 @@
     "inst_1": [
         {
             "word": "acelero",
-            "token": "aceler",
-            "start": 3.1
+            "stem": "aceler",
+            "start": 3.33
         },
         {
             "tag": "T-ON",
@@ -29,18 +29,18 @@
     "inst_2": [
         {
             "word": "levanto",
-            "token": "levant",
-            "start": 6.12
+            "stem": "levant",
+            "start": 6.4
         },
         {
             "word": "pie",
-            "token": "pie",
-            "start": 6.19
+            "stem": "pie",
+            "start": 6.63
         },
         {
             "word": "acelerador",
-            "token": "aceler",
-            "start": 6.27
+            "stem": "aceler",
+            "start": 6.9
         },
         {
             "tag": "T-OFF",
@@ -50,13 +50,13 @@
     "inst_3": [
         {
             "word": "rotonda",
-            "token": "rotond",
-            "start": 8.15
+            "stem": "rotond",
+            "start": 8.5
         },
         {
             "word": "media",
-            "token": "medi",
-            "start": 9.02
+            "stem": "medi",
+            "start": 9.07
         },
         {
             "tag": "RND-MD",
@@ -66,13 +66,13 @@
     "inst_4": [
         {
             "word": "rotonda",
-            "token": "rotond",
+            "stem": "rotond",
             "start": 10.0
         },
         {
             "word": "cerca",
-            "token": "cerc",
-            "start": 10.14
+            "stem": "cerc",
+            "start": 10.47
         },
         {
             "tag": "RND-NR",
@@ -82,12 +82,12 @@
     "inst_5": [
         {
             "word": "mantengo",
-            "token": "manteng",
-            "start": 11.15
+            "stem": "manteng",
+            "start": 11.5
         },
         {
             "word": "acelerador",
-            "token": "aceler",
+            "stem": "aceler",
             "start": 12.0
         },
         {
@@ -98,13 +98,13 @@
     "inst_6": [
         {
             "word": "izquierda",
-            "token": "izquierd",
-            "start": 15.02
+            "stem": "izquierd",
+            "start": 15.07
         },
         {
             "word": "libre",
-            "token": "libr",
-            "start": 15.10
+            "stem": "libr",
+            "start": 15.33
         },
         {
             "tag": "L-FREE",
@@ -114,18 +114,18 @@
     "inst_7": [
         {
             "word": "no",
-            "token": "no",
-            "start": 15.52
+            "stem": "no",
+            "start": 16.73
         },
         {
             "word": "viene",
-            "token": "vien",
-            "start": 16.01
+            "stem": "vien",
+            "start": 16.03
         },
         {
             "word": "nadie",
-            "token": "nadi",
-            "start": 16.07
+            "stem": "nadi",
+            "start": 16.23
         },
         {
             "tag": "RND-CLEAR",
@@ -135,13 +135,13 @@
     "inst_8": [
         {
             "word": "entro",
-            "token": "entro",
-            "start": 16.16
+            "stem": "entro",
+            "start": 16.53
         },
         {
             "word": "rotonda",
-            "token": "rotond",
-            "start": 16.29
+            "stem": "rotond",
+            "start": 16.97
         },
         {
             "tag": "RND-IN",
@@ -151,18 +151,18 @@
     "inst_9": [
         {
             "word": "giro",
-            "token": "gir",
-            "start": 19.09
+            "stem": "gir",
+            "start": 19.3
         },
         {
             "word": "izquierda",
-            "token": "izquierd",
-            "start": 19.16
+            "stem": "izquierd",
+            "start": 19.53
         },
         {
             "word": "rotonda",
-            "token": "rotond",
-            "start": 19.26
+            "stem": "rotond",
+            "start": 19.87
         },
         {
             "tag": "TURN-L",
@@ -172,13 +172,13 @@
     "inst_10": [
         {
             "word": "mantengo",
-            "token": "manteng",
-            "start": 20.21
+            "stem": "manteng",
+            "start": 20.7
         },
         {
             "word": "acelerador",
-            "token": "aceler",
-            "start": 21.01
+            "stem": "aceler",
+            "start": 21.03
         },
         {
             "tag": "T-HOLD",
@@ -188,13 +188,13 @@
     "inst_11": [
         {
             "word": "giro",
-            "token": "gir",
-            "start": 24.23
+            "stem": "gir",
+            "start": 24.77
         },
         {
             "word": "izquierda",
-            "token": "izquierd",
-            "start": 25.02
+            "stem": "izquierd",
+            "start": 25.07
         },
         {
             "tag": "TURN-L",
@@ -204,13 +204,13 @@
     "inst_12": [
         {
             "word": "atención",
-            "token": "atencion",
-            "start": 29.13
+            "stem": "atencion",
+            "start": 29.43
         },
         {
             "word": "ciclista",
-            "token": "ciclist",
-            "start": 31.08
+            "stem": "ciclist",
+            "start": 31.27
         },
         {
             "tag": "CAR-NR",
@@ -220,8 +220,8 @@
     "inst_13": [
         {
             "word": "freno",
-            "token": "fren",
-            "start": 32.26
+            "stem": "fren",
+            "start": 32.87
         },
         {
             "tag": "B-ON",
@@ -231,8 +231,8 @@
     "inst_14": [
         {
             "word": "acelero",
-            "token": "aceler",
-            "start": 34.11
+            "stem": "aceler",
+            "start": 34.37
         },
         {
             "tag": "T-ON",
@@ -242,13 +242,13 @@
     "inst_15": [
         {
             "word": "mantengo",
-            "token": "manteng",
-            "start": 34.29
+            "stem": "manteng",
+            "start": 34.97
         },
         {
             "word": "acelerador",
-            "token": "aceler",
-            "start": 35.13
+            "stem": "aceler",
+            "start": 35.43
         },
         {
             "tag": "T-HOLD",
@@ -258,13 +258,13 @@
     "inst_16": [
         {
             "word": "giro",
-            "token": "gir",
-            "start": 38.16
+            "stem": "gir",
+            "start": 38.53
         },
         {
             "word": "derecha",
-            "token": "derech",
-            "start": 38.25
+            "stem": "derech",
+            "start": 38.83
         },
         {
             "tag": "TURN-R",
@@ -274,13 +274,13 @@
     "inst_17": [
         {
             "word": "salgo",
-            "token": "salg",
-            "start": 39.17
+            "stem": "salg",
+            "start": 39.57
         },
         {
             "word": "rotonda",
-            "token": "rotond",
-            "start": 39.26
+            "stem": "rotond",
+            "start": 39.87
         },
         {
             "tag": "RND-EXIT",
@@ -290,8 +290,8 @@
     "inst_18": [
         {
             "word": "acelero",
-            "token": "aceler",
-            "start": 40.11
+            "stem": "aceler",
+            "start": 40.37
         },
         {
             "tag": "T-ON",
@@ -301,8 +301,8 @@
     "inst_19": [
         {
             "word": "acelero",
-            "token": "aceler",
-            "start": 42.06
+            "stem": "aceler",
+            "start": 42.2
         },
         {
             "tag": "T-ON",

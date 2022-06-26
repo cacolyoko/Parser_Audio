@@ -1,167 +1,167 @@
 [
     {
         "word": "acelero",
-        "token": "aceler",
+        "stem": "aceler",
         "start": 0.0
     },
     {
         "word": "acerco",
-        "token": "acerc",
+        "stem": "acerc",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "media",
-        "token": "medi",
+        "stem": "medi",
         "start": 0.0
     },
     {
         "word": "mantengo",
-        "token": "manteng",
+        "stem": "manteng",
         "start": 0.0
     },
     {
         "word": "acelerador",
-        "token": "aceler",
+        "stem": "aceler",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "cerca",
-        "token": "cerc",
+        "stem": "cerc",
         "start": 0.0
     },
     {
         "word": "izquierda",
-        "token": "izquierd",
+        "stem": "izquierd",
         "start": 0.0
     },
     {
         "word": "libre",
-        "token": "libr",
+        "stem": "libr",
         "start": 0.0
     },
     {
         "word": "ceda",
-        "token": "ced",
+        "stem": "ced",
         "start": 0.0
     },
     {
         "word": "entro",
-        "token": "entro",
+        "stem": "entro",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "giro",
-        "token": "gir",
+        "stem": "gir",
         "start": 0.0
     },
     {
         "word": "derecha",
-        "token": "derech",
+        "stem": "derech",
         "start": 0.0
     },
     {
         "word": "intermitente",
-        "token": "intermitent",
+        "stem": "intermitent",
         "start": 0.0
     },
     {
         "word": "izquierda",
-        "token": "izquierd",
+        "stem": "izquierd",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "giro",
-        "token": "gir",
+        "stem": "gir",
         "start": 0.0
     },
     {
         "word": "izquierda",
-        "token": "izquierd",
+        "stem": "izquierd",
         "start": 0.0
     },
     {
         "word": "mantengo",
-        "token": "manteng",
+        "stem": "manteng",
         "start": 0.0
     },
     {
         "word": "acelerador",
-        "token": "aceler",
+        "stem": "aceler",
         "start": 0.0
     },
     {
         "word": "quito",
-        "token": "quit",
+        "stem": "quit",
         "start": 0.0
     },
     {
         "word": "intermitente",
-        "token": "intermitent",
+        "stem": "intermitent",
         "start": 0.0
     },
     {
         "word": "intermitente",
-        "token": "intermitent",
+        "stem": "intermitent",
         "start": 0.0
     },
     {
         "word": "derecha",
-        "token": "derech",
+        "stem": "derech",
         "start": 0.0
     },
     {
         "word": "giro",
-        "token": "gir",
+        "stem": "gir",
         "start": 0.0
     },
     {
         "word": "derecha",
-        "token": "derech",
+        "stem": "derech",
         "start": 0.0
     },
     {
         "word": "salgo",
-        "token": "salg",
+        "stem": "salg",
         "start": 0.0
     },
     {
         "word": "rotonda",
-        "token": "rotond",
+        "stem": "rotond",
         "start": 0.0
     },
     {
         "word": "acelero",
-        "token": "aceler",
+        "stem": "aceler",
         "start": 0.0
     },
     {
         "word": "acelero",
-        "token": "aceler",
+        "stem": "aceler",
         "start": 0.0
     }
 ]
