@@ -24,7 +24,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "31 km/h",
+                "speed (km/h)": 31.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -75,7 +75,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "38 km/h",
+                "speed (km/h)": 38.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -136,7 +136,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "42 km/h",
+                "speed (km/h)": 42.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -192,7 +192,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "29 km/h",
+                "speed (km/h)": 29.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -248,7 +248,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "22 km/h",
+                "speed (km/h)": 22.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -304,7 +304,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "18 km/h",
+                "speed (km/h)": 18.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -360,7 +360,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "23 km/h",
+                "speed (km/h)": 23.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -421,7 +421,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "24 km/h",
+                "speed (km/h)": 24.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -477,7 +477,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "23 km/h",
+                "speed (km/h)": 23.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -538,7 +538,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "27 km/h",
+                "speed (km/h)": 27.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -594,7 +594,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "29 km/h",
+                "speed (km/h)": 29.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -650,7 +650,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "38 km/h",
+                "speed (km/h)": 38.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -706,7 +706,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "37 km/h",
+                "speed (km/h)": 37.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -757,7 +757,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "9 km/h",
+                "speed (km/h)": 9.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -808,7 +808,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "15 km/h",
+                "speed (km/h)": 15.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -864,7 +864,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "18 km/h",
+                "speed (km/h)": 18.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -920,7 +920,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "24 km/h",
+                "speed (km/h)": 24.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -976,7 +976,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "26 km/h",
+                "speed (km/h)": 26.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -1027,7 +1027,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "27 km/h",
+                "speed (km/h)": 27.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
@@ -1078,7 +1078,7 @@
                     "manual_gear_shift": false,
                     "gear": 0
                 },
-                "speed": "31 km/h",
+                "speed (km/h)": 31.0,
                 "speedLimit": 30.0,
                 "trafficLightState": "Green",
                 "acceleration": {
