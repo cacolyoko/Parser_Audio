@@ -409,7 +409,7 @@
         },
         {
             "tag": "RND-CLEAR",
-            "sentence": "viene nadie",
+            "sentence": "no viene nadie",
             "carla": {
                 "control": {
                     "throttle": 0.8500000238418579,

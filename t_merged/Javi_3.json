@@ -1,1 +1,1173 @@
-{"inst_0": [{"word": "aproximo", "stem": "aproxim", "start": 2.4}, {"word": "rotonda", "stem": "rotond", "start": 2.9}, {"tag": "APROX", "sentence": "aproximo rotonda", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.22421766817569733, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 13.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -3.965364694595337, "y": -125.34487915039062, "z": 0.0014074897626414895}, "geoLocation": {"latitude": 0.001125992207192894, "longitude": -3.562147712262929e-05, "altitude": 0.0014074897626414895}, "angularVelocity": {"x": 0.0019743512384593487, "y": -0.0011525941081345081, "z": 1.266129970550537}, "rotation": {"x": -0.0040283203125, "y": 0.04618573561310768, "z": 85.76568603515625}}}], "inst_1": [{"word": "mantengo", "stem": "manteng", "start": 3.4}, {"word": "acelerador", "stem": "aceler", "start": 4.7}, {"tag": "T-HOLD", "sentence": "mantengo acelerador", "carla": {"control": {"throttle": 0.5970464944839478, "steer": 0.03467278555035591, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 19.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -3.842109203338623, "y": -122.99578094482422, "z": 0.001826381660066545}, "geoLocation": {"latitude": 0.0011048898989969302, "longitude": -3.451425420615363e-05, "altitude": 0.001826381660066545}, "angularVelocity": {"x": -0.14026430249214172, "y": -0.004695754032582045, "z": 3.8352279663085938}, "rotation": {"x": -0.013824465684592724, "y": 0.030209925025701523, "z": 87.09760284423828}}}], "inst_2": [{"word": "rotonda", "stem": "rotond", "start": 6.8}, {"word": "media", "stem": "medi", "start": 8.6}, {"tag": "RND-MD", "sentence": "rotonda media", "carla": {"control": {"throttle": 0.5970464944839478, "steer": 0.012652757577598095, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 32.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -3.8626537322998047, "y": -111.67385864257812, "z": 0.0016729163471609354}, "geoLocation": {"latitude": 0.0010031833405008683, "longitude": -3.469880884986229e-05, "altitude": 0.0016729163471609354}, "angularVelocity": {"x": -0.008356305770576, "y": -0.0022411548998206854, "z": 2.6860599517822266}, "rotation": {"x": -0.01486206240952015, "y": 0.029164906591176987, "z": 91.64375305175781}}}], "inst_3": [{"word": "mantengo", "stem": "manteng", "start": 9.0}, {"word": "acelerador", "stem": "aceler", "start": 10.4}, {"tag": "T-HOLD", "sentence": "mantengo acelerador", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.15572282671928406, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 40.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -4.216891765594482, "y": -100.6287841796875, "z": 0.0017019080696627498}, "geoLocation": {"latitude": 0.0009039637484704599, "longitude": -3.788098324511278e-05, "altitude": 0.0017019080696627498}, "angularVelocity": {"x": 0.0, "y": 0.0, "z": 0.0}, "rotation": {"x": -9.155221778200939e-05, "y": 0.024226680397987366, "z": 91.83943176269531}}}], "inst_4": [{"word": "rotonda", "stem": "rotond", "start": 10.9}, {"word": "cerca", "stem": "cerc", "start": 14.3}, {"tag": "RND-NR", "sentence": "rotonda cerca", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.16550278663635254, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 45.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -4.570230484008789, "y": -89.6265640258789, "z": 0.0017252921825274825}, "geoLocation": {"latitude": 0.0008051291232504809, "longitude": -4.105507895734053e-05, "altitude": 0.0017252921825274825}, "angularVelocity": {"x": -0.009114033542573452, "y": -0.00028814858524128795, "z": 3.3350531225551094e-07}, "rotation": {"x": -6.103481427999213e-05, "y": 0.02031298168003559, "z": 91.83943176269531}}}], "inst_5": [{"word": "levanto", "stem": "levant", "start": 14.8}, {"word": "pie", "stem": "pie", "start": 15.9}, {"word": "acelerador", "stem": "aceler", "start": 16.1}, {"tag": "T-OFF", "sentence": "levanto pie acelerador", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.03362680971622467, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 48.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -5.39349365234375, "y": -63.99180603027344, "z": 0.0019104194361716509}, "geoLocation": {"latitude": 0.0005748481741250089, "longitude": -4.845057782702011e-05, "altitude": 0.0019104194361716509}, "angularVelocity": {"x": -0.03763006627559662, "y": -0.0011846106499433517, "z": 1.3340210216483683e-06}, "rotation": {"x": -6.103564373916015e-05, "y": -0.011324453167617321, "z": 91.83943176269531}}}], "inst_6": [{"word": "izquierda", "stem": "izquierd", "start": 23.2}, {"word": "ocupada", "stem": "ocup", "start": 24.3}, {"tag": "L-BUSY", "sentence": "izquierda ocupada", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.045886676758527756, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 16.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -6.942383289337158, "y": -34.85396194458008, "z": 0.001634197193197906}, "geoLocation": {"latitude": 0.00031309846727367585, "longitude": -6.236449017027527e-05, "altitude": 0.001634197193197906}, "angularVelocity": {"x": -0.02804645337164402, "y": -0.0013767094351351261, "z": 1.3668873310089111}, "rotation": {"x": -0.004394530784338713, "y": 0.007533698342740536, "z": 97.04896545410156}}}], "inst_7": [{"word": "freno", "stem": "fren", "start": 24.8}, {"word": "stop", "stem": "stop", "start": 27.1}, {"tag": "B-ON", "sentence": "freno stop", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.043865833431482315, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 12.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -7.380103588104248, "y": -31.7293643951416, "z": 0.0017849921714514494}, "geoLocation": {"latitude": 0.00028502972990906983, "longitude": -6.629659851579367e-05, "altitude": 0.0017849921714514494}, "angularVelocity": {"x": 0.004332900047302246, "y": -0.0014300706097856164, "z": 1.3003673553466797}, "rotation": {"x": -0.0026855459436774254, "y": -0.01818196289241314, "z": 98.08308410644531}}}], "inst_8": [{"word": "izquierda", "stem": "izquierd", "start": 27.3}, {"word": "libre", "stem": "libr", "start": 29.1}, {"tag": "L-FREE", "sentence": "izquierda libre", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.0984991267323494, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 0.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -7.609559535980225, "y": -30.238483428955078, "z": 0.0017122458666563034}, "geoLocation": {"latitude": 0.0002716369183133338, "longitude": -6.835783636588488e-05, "altitude": 0.0017122458666563034}, "angularVelocity": {"x": 0.043115563690662384, "y": 0.007331780157983303, "z": -0.00036352078313939273}, "rotation": {"x": 4.997181167709641e-05, "y": -0.005771509371697903, "z": 98.64959716796875}}}], "inst_9": [{"word": "entro", "stem": "entro", "start": 30.0}, {"word": "rotonda", "stem": "rotond", "start": 31.6}, {"tag": "RND-IN", "sentence": "entro rotonda", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.09849873185157776, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 0.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -7.609567165374756, "y": -30.238441467285156, "z": 0.0016788672655820847}, "geoLocation": {"latitude": 0.00027163654135620163, "longitude": -6.835790490190205e-05, "altitude": 0.0016788672655820847}, "angularVelocity": {"x": 1.0672168173186947e-05, "y": 0.0, "z": -0.0006833522929809988}, "rotation": {"x": -6.103514533606358e-05, "y": -9.56226431299001e-05, "z": 98.64959716796875}}}], "inst_10": [{"word": "giro", "stem": "gir", "start": 31.9}, {"word": "derecha", "stem": "derech", "start": 33.1}, {"tag": "TURN-R", "sentence": "giro derecha", "carla": {"control": {"throttle": 0.2559323012828827, "steer": 0.0, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 0.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -7.609490871429443, "y": -30.238910675048828, "z": 0.0016474723815917969}, "geoLocation": {"latitude": 0.0002716407563383427, "longitude": -6.835721954173045e-05, "altitude": 0.0016474723815917969}, "angularVelocity": {"x": -0.022048700600862503, "y": -0.003361733164638281, "z": -0.0010241946438327432}, "rotation": {"x": -6.103511987021193e-05, "y": 0.0012840754352509975, "z": 98.65043640136719}}}], "inst_11": [{"word": "intermitente", "stem": "intermitent", "start": 33.2}, {"word": "izquierda", "stem": "izquierd", "start": 34.4}, {"tag": "LB-ON", "sentence": "intermitente izquierda", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.12143237143754959, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 10.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -7.726990222930908, "y": -29.46682357788086, "z": 0.001298618270084262}, "geoLocation": {"latitude": 0.0002647049799264778, "longitude": -6.941273417500943e-05, "altitude": 0.001298618270084262}, "angularVelocity": {"x": 0.0588676817715168, "y": 0.008046814240515232, "z": 0.00685353297740221}, "rotation": {"x": 0.0001204355139634572, "y": 0.06470920890569687, "z": 98.6034164428711}}}], "inst_12": [{"word": "giro", "stem": "gir", "start": 36.7}, {"word": "izquierda", "stem": "izquierd", "start": 37.2}, {"tag": "TURN-L", "sentence": "giro izquierda", "carla": {"control": {"throttle": 0.9977864027023315, "steer": 0.014729958027601242, "brake": 0.0, "light_state": "Left_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 44.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -12.064309120178223, "y": -18.068275451660156, "z": 0.0013274955563247204}, "geoLocation": {"latitude": 0.00016231007997191682, "longitude": -0.00010837553274998633, "altitude": 0.0013274955563247204}, "angularVelocity": {"x": 0.07443837076425552, "y": -0.17387093603610992, "z": 8.010583877563477}, "rotation": {"x": -0.0663757175207138, "y": 0.08805479109287262, "z": 119.234130859375}}}], "inst_13": [{"word": "mantengo", "stem": "manteng", "start": 39.7}, {"word": "acelerador", "stem": "aceler", "start": 40.8}, {"tag": "T-HOLD", "sentence": "mantengo acelerador", "carla": {"control": {"throttle": 0.38826340436935425, "steer": -0.4721073806285858, "brake": 0.0, "light_state": "Left_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 38.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -19.5884952545166, "y": -1.7216687202453613, "z": 0.0020865057595074177}, "geoLocation": {"latitude": 1.5466013252307675e-05, "longitude": -0.00017596644680034979, "altitude": 0.0020865057595074177}, "angularVelocity": {"x": 0.14439529180526733, "y": -1.1722592115402222, "z": -68.90015411376953}, "rotation": {"x": 0.4116484820842743, "y": -0.04111090674996376, "z": 96.94502258300781}}}], "inst_14": [{"word": "quito", "stem": "quit", "start": 41.5}, {"word": "intermitente", "stem": "intermitent", "start": 44.2}, {"tag": "BLK-OFF", "sentence": "quito intermitente", "carla": {"control": {"throttle": 0.39595910906791687, "steer": -0.09774307161569595, "brake": 0.0, "light_state": "Left_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 36.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": -18.158935546875, "y": 7.224797248840332, "z": 0.0018839072436094284}, "geoLocation": {"latitude": -6.490145794657565e-05, "longitude": -0.00016312449345099093, "altitude": 0.0018839072436094284}, "angularVelocity": {"x": -0.028569405898451805, "y": -0.15037089586257935, "z": -18.13648223876953}, "rotation": {"x": 0.11240435391664505, "y": -0.006775547284632921, "z": 76.1303939819336}}}], "inst_15": [{"word": "intermitente", "stem": "intermitent", "start": 46.2}, {"word": "derecha", "stem": "derech", "start": 47.4}, {"tag": "RB-ON", "sentence": "intermitente derecha", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.800000011920929, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 42.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 0.12336089462041855, "y": 19.886812210083008, "z": 0.0017739677568897605}, "geoLocation": {"latitude": -0.00017864627362484953, "longitude": 1.1081697710017963e-06, "altitude": 0.0017739677568897605}, "angularVelocity": {"x": 0.023350069299340248, "y": 0.002752923173829913, "z": -33.800148010253906}, "rotation": {"x": 0.27870768308639526, "y": 0.011911849491298199, "z": -2.632538080215454}}}], "inst_16": [{"word": "giro", "stem": "gir", "start": 47.9}, {"word": "derecha", "stem": "derech", "start": 48.7}, {"tag": "TURN-R", "sentence": "giro derecha", "carla": {"control": {"throttle": 0.5371202230453491, "steer": -0.10945341736078262, "brake": 0.0, "light_state": "Right_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 44.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 9.541423797607422, "y": 16.5457763671875, "z": 0.0018028831109404564}, "geoLocation": {"latitude": -0.000148633237984086, "longitude": 8.571206829652474e-05, "altitude": 0.0018028831109404564}, "angularVelocity": {"x": 0.15627801418304443, "y": -0.0970834493637085, "z": -26.076854705810547}, "rotation": {"x": 0.2684323191642761, "y": 0.0069667925126850605, "z": -33.590721130371094}}}], "inst_17": [{"word": "salgo", "stem": "salg", "start": 48.7}, {"word": "rotonda", "stem": "rotond", "start": 50.3}, {"tag": "RND-EXIT", "sentence": "salgo rotonda", "carla": {"control": {"throttle": 0.8500000238418579, "steer": 0.6499999761581421, "brake": 0.0, "light_state": "Right_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 45.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 13.30666732788086, "y": 13.47765827178955, "z": 0.0018079947913065553}, "geoLocation": {"latitude": -0.00012107186418575111, "longitude": 0.00011953582641329247, "altitude": 0.0018079947913065553}, "angularVelocity": {"x": 0.5552943348884583, "y": -0.5211247801780701, "z": -12.90470027923584}, "rotation": {"x": 0.1616276204586029, "y": 0.006010565906763077, "z": -42.98777389526367}}}], "inst_18": [{"word": "acelero", "stem": "aceler", "start": 51.6}, {"tag": "T-ON", "sentence": "acelero", "carla": {"control": {"throttle": 0.4934229850769043, "steer": 0.11729903519153595, "brake": 0.0, "light_state": "Right_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 40.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 27.99835968017578, "y": 6.790670394897461, "z": 0.0018612861167639494}, "geoLocation": {"latitude": -6.1001630058399314e-05, "longitude": 0.0002515135443097766, "altitude": 0.0018612861167639494}, "angularVelocity": {"x": -0.07409557700157166, "y": -0.008856571279466152, "z": 26.06001091003418}, "rotation": {"x": -0.210113525390625, "y": 2.0490566384978592e-05, "z": -3.063629627227783}}}], "inst_19": [{"word": "quito", "stem": "quit", "start": 52.7}, {"word": "intermitente", "stem": "intermitent", "start": 53.5}, {"tag": "BLK-OFF", "sentence": "quito intermitente", "carla": {"control": {"throttle": 0.4934229850769043, "steer": 0.0, "brake": 0.0, "light_state": "Right_Blinker", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 41.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 34.09680938720703, "y": 6.877932071685791, "z": 0.0018084525363519788}, "geoLocation": {"latitude": -6.178551502955543e-05, "longitude": 0.0003062968501223805, "altitude": 0.0018084525363519788}, "angularVelocity": {"x": -0.17785167694091797, "y": -0.00815943069756031, "z": 0.2576805055141449}, "rotation": {"x": -0.0327148400247097, "y": 0.006010565906763077, "z": 1.7623602151870728}}}], "inst_20": [{"word": "recto", "stem": "rect", "start": 54.4}, {"tag": "STR", "sentence": "recto", "carla": {"control": {"throttle": 0.8500000238418579, "steer": -0.01935414783656597, "brake": 0.0, "light_state": "NONE", "hand_brake": false, "reverse": false, "manual_gear_shift": false, "gear": 0}, "speed (km/h)": 42.0, "speedLimit": 30.0, "trafficLightState": "Green", "acceleration": {"x": 0.0, "y": 0.0, "z": 0.0}, "location": {"x": 43.85362243652344, "y": 7.178617477416992, "z": 0.0018112754914909601}, "geoLocation": {"latitude": -6.448661800106947e-05, "longitude": 0.0003939437929873577, "altitude": 0.0018112754914909601}, "angularVelocity": {"x": -0.0030789203010499477, "y": 0.0008469521999359131, "z": 0.04465348646044731}, "rotation": {"x": -0.00048828122089616954, "y": 0.005600754637271166, "z": 1.7694438695907593}}}]}
+{
+    "inst_0": [
+        {
+            "word": "aproximo",
+            "stem": "aproxim",
+            "start": 2.4
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 2.9
+        },
+        {
+            "tag": "APROX",
+            "sentence": "aproximo rotonda",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.22421766817569733,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 13.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -3.965364694595337,
+                    "y": -125.34487915039062,
+                    "z": 0.0014074897626414895
+                },
+                "geoLocation": {
+                    "latitude": 0.001125992207192894,
+                    "longitude": -3.562147712262929e-05,
+                    "altitude": 0.0014074897626414895
+                },
+                "angularVelocity": {
+                    "x": 0.0019743512384593487,
+                    "y": -0.0011525941081345081,
+                    "z": 1.266129970550537
+                },
+                "rotation": {
+                    "x": -0.0040283203125,
+                    "y": 0.04618573561310768,
+                    "z": 85.76568603515625
+                }
+            }
+        }
+    ],
+    "inst_1": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 3.4
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 4.7
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador",
+            "carla": {
+                "control": {
+                    "throttle": 0.5970464944839478,
+                    "steer": 0.03467278555035591,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 19.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -3.842109203338623,
+                    "y": -122.99578094482422,
+                    "z": 0.001826381660066545
+                },
+                "geoLocation": {
+                    "latitude": 0.0011048898989969302,
+                    "longitude": -3.451425420615363e-05,
+                    "altitude": 0.001826381660066545
+                },
+                "angularVelocity": {
+                    "x": -0.14026430249214172,
+                    "y": -0.004695754032582045,
+                    "z": 3.8352279663085938
+                },
+                "rotation": {
+                    "x": -0.013824465684592724,
+                    "y": 0.030209925025701523,
+                    "z": 87.09760284423828
+                }
+            }
+        }
+    ],
+    "inst_2": [
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 6.8
+        },
+        {
+            "word": "media",
+            "stem": "medi",
+            "start": 8.6
+        },
+        {
+            "tag": "RND-MD",
+            "sentence": "rotonda media",
+            "carla": {
+                "control": {
+                    "throttle": 0.5970464944839478,
+                    "steer": 0.012652757577598095,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 32.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -3.8626537322998047,
+                    "y": -111.67385864257812,
+                    "z": 0.0016729163471609354
+                },
+                "geoLocation": {
+                    "latitude": 0.0010031833405008683,
+                    "longitude": -3.469880884986229e-05,
+                    "altitude": 0.0016729163471609354
+                },
+                "angularVelocity": {
+                    "x": -0.008356305770576,
+                    "y": -0.0022411548998206854,
+                    "z": 2.6860599517822266
+                },
+                "rotation": {
+                    "x": -0.01486206240952015,
+                    "y": 0.029164906591176987,
+                    "z": 91.64375305175781
+                }
+            }
+        }
+    ],
+    "inst_3": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 9.0
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 10.4
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.15572282671928406,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 40.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -4.216891765594482,
+                    "y": -100.6287841796875,
+                    "z": 0.0017019080696627498
+                },
+                "geoLocation": {
+                    "latitude": 0.0009039637484704599,
+                    "longitude": -3.788098324511278e-05,
+                    "altitude": 0.0017019080696627498
+                },
+                "angularVelocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "rotation": {
+                    "x": -9.155221778200939e-05,
+                    "y": 0.024226680397987366,
+                    "z": 91.83943176269531
+                }
+            }
+        }
+    ],
+    "inst_4": [
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 10.9
+        },
+        {
+            "word": "cerca",
+            "stem": "cerc",
+            "start": 14.3
+        },
+        {
+            "tag": "RND-NR",
+            "sentence": "rotonda cerca",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.16550278663635254,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 45.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -4.570230484008789,
+                    "y": -89.6265640258789,
+                    "z": 0.0017252921825274825
+                },
+                "geoLocation": {
+                    "latitude": 0.0008051291232504809,
+                    "longitude": -4.105507895734053e-05,
+                    "altitude": 0.0017252921825274825
+                },
+                "angularVelocity": {
+                    "x": -0.009114033542573452,
+                    "y": -0.00028814858524128795,
+                    "z": 3.3350531225551094e-07
+                },
+                "rotation": {
+                    "x": -6.103481427999213e-05,
+                    "y": 0.02031298168003559,
+                    "z": 91.83943176269531
+                }
+            }
+        }
+    ],
+    "inst_5": [
+        {
+            "word": "levanto",
+            "stem": "levant",
+            "start": 14.8
+        },
+        {
+            "word": "pie",
+            "stem": "pie",
+            "start": 15.9
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 16.1
+        },
+        {
+            "tag": "T-OFF",
+            "sentence": "levanto pie acelerador",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.03362680971622467,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 48.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -5.39349365234375,
+                    "y": -63.99180603027344,
+                    "z": 0.0019104194361716509
+                },
+                "geoLocation": {
+                    "latitude": 0.0005748481741250089,
+                    "longitude": -4.845057782702011e-05,
+                    "altitude": 0.0019104194361716509
+                },
+                "angularVelocity": {
+                    "x": -0.03763006627559662,
+                    "y": -0.0011846106499433517,
+                    "z": 1.3340210216483683e-06
+                },
+                "rotation": {
+                    "x": -6.103564373916015e-05,
+                    "y": -0.011324453167617321,
+                    "z": 91.83943176269531
+                }
+            }
+        }
+    ],
+    "inst_6": [
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 23.2
+        },
+        {
+            "word": "ocupada",
+            "stem": "ocup",
+            "start": 24.3
+        },
+        {
+            "tag": "L-BUSY",
+            "sentence": "izquierda ocupada",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.045886676758527756,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 16.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -6.942383289337158,
+                    "y": -34.85396194458008,
+                    "z": 0.001634197193197906
+                },
+                "geoLocation": {
+                    "latitude": 0.00031309846727367585,
+                    "longitude": -6.236449017027527e-05,
+                    "altitude": 0.001634197193197906
+                },
+                "angularVelocity": {
+                    "x": -0.02804645337164402,
+                    "y": -0.0013767094351351261,
+                    "z": 1.3668873310089111
+                },
+                "rotation": {
+                    "x": -0.004394530784338713,
+                    "y": 0.007533698342740536,
+                    "z": 97.04896545410156
+                }
+            }
+        }
+    ],
+    "inst_7": [
+        {
+            "word": "freno",
+            "stem": "fren",
+            "start": 24.8
+        },
+        {
+            "word": "stop",
+            "stem": "stop",
+            "start": 27.1
+        },
+        {
+            "tag": "B-ON",
+            "sentence": "freno stop",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.043865833431482315,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 12.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -7.380103588104248,
+                    "y": -31.7293643951416,
+                    "z": 0.0017849921714514494
+                },
+                "geoLocation": {
+                    "latitude": 0.00028502972990906983,
+                    "longitude": -6.629659851579367e-05,
+                    "altitude": 0.0017849921714514494
+                },
+                "angularVelocity": {
+                    "x": 0.004332900047302246,
+                    "y": -0.0014300706097856164,
+                    "z": 1.3003673553466797
+                },
+                "rotation": {
+                    "x": -0.0026855459436774254,
+                    "y": -0.01818196289241314,
+                    "z": 98.08308410644531
+                }
+            }
+        }
+    ],
+    "inst_8": [
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 27.3
+        },
+        {
+            "word": "libre",
+            "stem": "libr",
+            "start": 29.1
+        },
+        {
+            "tag": "L-FREE",
+            "sentence": "izquierda libre",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.0984991267323494,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 0.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -7.609559535980225,
+                    "y": -30.238483428955078,
+                    "z": 0.0017122458666563034
+                },
+                "geoLocation": {
+                    "latitude": 0.0002716369183133338,
+                    "longitude": -6.835783636588488e-05,
+                    "altitude": 0.0017122458666563034
+                },
+                "angularVelocity": {
+                    "x": 0.043115563690662384,
+                    "y": 0.007331780157983303,
+                    "z": -0.00036352078313939273
+                },
+                "rotation": {
+                    "x": 4.997181167709641e-05,
+                    "y": -0.005771509371697903,
+                    "z": 98.64959716796875
+                }
+            }
+        }
+    ],
+    "inst_9": [
+        {
+            "word": "entro",
+            "stem": "entro",
+            "start": 30.0
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 31.6
+        },
+        {
+            "tag": "RND-IN",
+            "sentence": "entro rotonda",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.09849873185157776,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 0.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -7.609567165374756,
+                    "y": -30.238441467285156,
+                    "z": 0.0016788672655820847
+                },
+                "geoLocation": {
+                    "latitude": 0.00027163654135620163,
+                    "longitude": -6.835790490190205e-05,
+                    "altitude": 0.0016788672655820847
+                },
+                "angularVelocity": {
+                    "x": 1.0672168173186947e-05,
+                    "y": 0.0,
+                    "z": -0.0006833522929809988
+                },
+                "rotation": {
+                    "x": -6.103514533606358e-05,
+                    "y": -9.56226431299001e-05,
+                    "z": 98.64959716796875
+                }
+            }
+        }
+    ],
+    "inst_10": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 31.9
+        },
+        {
+            "word": "derecha",
+            "stem": "derech",
+            "start": 33.1
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha",
+            "carla": {
+                "control": {
+                    "throttle": 0.2559323012828827,
+                    "steer": 0.0,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 0.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -7.609490871429443,
+                    "y": -30.238910675048828,
+                    "z": 0.0016474723815917969
+                },
+                "geoLocation": {
+                    "latitude": 0.0002716407563383427,
+                    "longitude": -6.835721954173045e-05,
+                    "altitude": 0.0016474723815917969
+                },
+                "angularVelocity": {
+                    "x": -0.022048700600862503,
+                    "y": -0.003361733164638281,
+                    "z": -0.0010241946438327432
+                },
+                "rotation": {
+                    "x": -6.103511987021193e-05,
+                    "y": 0.0012840754352509975,
+                    "z": 98.65043640136719
+                }
+            }
+        }
+    ],
+    "inst_11": [
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 33.2
+        },
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 34.4
+        },
+        {
+            "tag": "LB-ON",
+            "sentence": "intermitente izquierda",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.12143237143754959,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 10.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -7.726990222930908,
+                    "y": -29.46682357788086,
+                    "z": 0.001298618270084262
+                },
+                "geoLocation": {
+                    "latitude": 0.0002647049799264778,
+                    "longitude": -6.941273417500943e-05,
+                    "altitude": 0.001298618270084262
+                },
+                "angularVelocity": {
+                    "x": 0.0588676817715168,
+                    "y": 0.008046814240515232,
+                    "z": 0.00685353297740221
+                },
+                "rotation": {
+                    "x": 0.0001204355139634572,
+                    "y": 0.06470920890569687,
+                    "z": 98.6034164428711
+                }
+            }
+        }
+    ],
+    "inst_12": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 36.7
+        },
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 37.2
+        },
+        {
+            "tag": "TURN-L",
+            "sentence": "giro izquierda",
+            "carla": {
+                "control": {
+                    "throttle": 0.9977864027023315,
+                    "steer": 0.014729958027601242,
+                    "brake": 0.0,
+                    "light_state": "Left_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 44.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -12.064309120178223,
+                    "y": -18.068275451660156,
+                    "z": 0.0013274955563247204
+                },
+                "geoLocation": {
+                    "latitude": 0.00016231007997191682,
+                    "longitude": -0.00010837553274998633,
+                    "altitude": 0.0013274955563247204
+                },
+                "angularVelocity": {
+                    "x": 0.07443837076425552,
+                    "y": -0.17387093603610992,
+                    "z": 8.010583877563477
+                },
+                "rotation": {
+                    "x": -0.0663757175207138,
+                    "y": 0.08805479109287262,
+                    "z": 119.234130859375
+                }
+            }
+        }
+    ],
+    "inst_13": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 39.7
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 40.8
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador",
+            "carla": {
+                "control": {
+                    "throttle": 0.38826340436935425,
+                    "steer": -0.4721073806285858,
+                    "brake": 0.0,
+                    "light_state": "Left_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 38.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -19.5884952545166,
+                    "y": -1.7216687202453613,
+                    "z": 0.0020865057595074177
+                },
+                "geoLocation": {
+                    "latitude": 1.5466013252307675e-05,
+                    "longitude": -0.00017596644680034979,
+                    "altitude": 0.0020865057595074177
+                },
+                "angularVelocity": {
+                    "x": 0.14439529180526733,
+                    "y": -1.1722592115402222,
+                    "z": -68.90015411376953
+                },
+                "rotation": {
+                    "x": 0.4116484820842743,
+                    "y": -0.04111090674996376,
+                    "z": 96.94502258300781
+                }
+            }
+        }
+    ],
+    "inst_14": [
+        {
+            "word": "quito",
+            "stem": "quit",
+            "start": 41.5
+        },
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 44.2
+        },
+        {
+            "tag": "BLK-OFF",
+            "sentence": "quito intermitente",
+            "carla": {
+                "control": {
+                    "throttle": 0.39595910906791687,
+                    "steer": -0.09774307161569595,
+                    "brake": 0.0,
+                    "light_state": "Left_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 36.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": -18.158935546875,
+                    "y": 7.224797248840332,
+                    "z": 0.0018839072436094284
+                },
+                "geoLocation": {
+                    "latitude": -6.490145794657565e-05,
+                    "longitude": -0.00016312449345099093,
+                    "altitude": 0.0018839072436094284
+                },
+                "angularVelocity": {
+                    "x": -0.028569405898451805,
+                    "y": -0.15037089586257935,
+                    "z": -18.13648223876953
+                },
+                "rotation": {
+                    "x": 0.11240435391664505,
+                    "y": -0.006775547284632921,
+                    "z": 76.1303939819336
+                }
+            }
+        }
+    ],
+    "inst_15": [
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 46.2
+        },
+        {
+            "word": "derecha",
+            "stem": "derech",
+            "start": 47.4
+        },
+        {
+            "tag": "RB-ON",
+            "sentence": "intermitente derecha",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.800000011920929,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 42.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 0.12336089462041855,
+                    "y": 19.886812210083008,
+                    "z": 0.0017739677568897605
+                },
+                "geoLocation": {
+                    "latitude": -0.00017864627362484953,
+                    "longitude": 1.1081697710017963e-06,
+                    "altitude": 0.0017739677568897605
+                },
+                "angularVelocity": {
+                    "x": 0.023350069299340248,
+                    "y": 0.002752923173829913,
+                    "z": -33.800148010253906
+                },
+                "rotation": {
+                    "x": 0.27870768308639526,
+                    "y": 0.011911849491298199,
+                    "z": -2.632538080215454
+                }
+            }
+        }
+    ],
+    "inst_16": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 47.9
+        },
+        {
+            "word": "derecha",
+            "stem": "derech",
+            "start": 48.7
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha",
+            "carla": {
+                "control": {
+                    "throttle": 0.5371202230453491,
+                    "steer": -0.10945341736078262,
+                    "brake": 0.0,
+                    "light_state": "Right_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 44.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 9.541423797607422,
+                    "y": 16.5457763671875,
+                    "z": 0.0018028831109404564
+                },
+                "geoLocation": {
+                    "latitude": -0.000148633237984086,
+                    "longitude": 8.571206829652474e-05,
+                    "altitude": 0.0018028831109404564
+                },
+                "angularVelocity": {
+                    "x": 0.15627801418304443,
+                    "y": -0.0970834493637085,
+                    "z": -26.076854705810547
+                },
+                "rotation": {
+                    "x": 0.2684323191642761,
+                    "y": 0.0069667925126850605,
+                    "z": -33.590721130371094
+                }
+            }
+        }
+    ],
+    "inst_17": [
+        {
+            "word": "salgo",
+            "stem": "salg",
+            "start": 48.7
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 50.3
+        },
+        {
+            "tag": "RND-EXIT",
+            "sentence": "salgo rotonda",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": 0.6499999761581421,
+                    "brake": 0.0,
+                    "light_state": "Right_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 45.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 13.30666732788086,
+                    "y": 13.47765827178955,
+                    "z": 0.0018079947913065553
+                },
+                "geoLocation": {
+                    "latitude": -0.00012107186418575111,
+                    "longitude": 0.00011953582641329247,
+                    "altitude": 0.0018079947913065553
+                },
+                "angularVelocity": {
+                    "x": 0.5552943348884583,
+                    "y": -0.5211247801780701,
+                    "z": -12.90470027923584
+                },
+                "rotation": {
+                    "x": 0.1616276204586029,
+                    "y": 0.006010565906763077,
+                    "z": -42.98777389526367
+                }
+            }
+        }
+    ],
+    "inst_18": [
+        {
+            "word": "acelero",
+            "stem": "aceler",
+            "start": 51.6
+        },
+        {
+            "tag": "T-ON",
+            "sentence": "acelero",
+            "carla": {
+                "control": {
+                    "throttle": 0.4934229850769043,
+                    "steer": 0.11729903519153595,
+                    "brake": 0.0,
+                    "light_state": "Right_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 40.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 27.99835968017578,
+                    "y": 6.790670394897461,
+                    "z": 0.0018612861167639494
+                },
+                "geoLocation": {
+                    "latitude": -6.1001630058399314e-05,
+                    "longitude": 0.0002515135443097766,
+                    "altitude": 0.0018612861167639494
+                },
+                "angularVelocity": {
+                    "x": -0.07409557700157166,
+                    "y": -0.008856571279466152,
+                    "z": 26.06001091003418
+                },
+                "rotation": {
+                    "x": -0.210113525390625,
+                    "y": 2.0490566384978592e-05,
+                    "z": -3.063629627227783
+                }
+            }
+        }
+    ],
+    "inst_19": [
+        {
+            "word": "quito",
+            "stem": "quit",
+            "start": 52.7
+        },
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 53.5
+        },
+        {
+            "tag": "BLK-OFF",
+            "sentence": "quito intermitente",
+            "carla": {
+                "control": {
+                    "throttle": 0.4934229850769043,
+                    "steer": 0.0,
+                    "brake": 0.0,
+                    "light_state": "Right_Blinker",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 41.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 34.09680938720703,
+                    "y": 6.877932071685791,
+                    "z": 0.0018084525363519788
+                },
+                "geoLocation": {
+                    "latitude": -6.178551502955543e-05,
+                    "longitude": 0.0003062968501223805,
+                    "altitude": 0.0018084525363519788
+                },
+                "angularVelocity": {
+                    "x": -0.17785167694091797,
+                    "y": -0.00815943069756031,
+                    "z": 0.2576805055141449
+                },
+                "rotation": {
+                    "x": -0.0327148400247097,
+                    "y": 0.006010565906763077,
+                    "z": 1.7623602151870728
+                }
+            }
+        }
+    ],
+    "inst_20": [
+        {
+            "word": "recto",
+            "stem": "rect",
+            "start": 54.4
+        },
+        {
+            "tag": "STR",
+            "sentence": "recto",
+            "carla": {
+                "control": {
+                    "throttle": 0.8500000238418579,
+                    "steer": -0.01935414783656597,
+                    "brake": 0.0,
+                    "light_state": "NONE",
+                    "hand_brake": false,
+                    "reverse": false,
+                    "manual_gear_shift": false,
+                    "gear": 0
+                },
+                "speed (km/h)": 42.0,
+                "speedLimit": 30.0,
+                "trafficLightState": "Green",
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "location": {
+                    "x": 43.85362243652344,
+                    "y": 7.178617477416992,
+                    "z": 0.0018112754914909601
+                },
+                "geoLocation": {
+                    "latitude": -6.448661800106947e-05,
+                    "longitude": 0.0003939437929873577,
+                    "altitude": 0.0018112754914909601
+                },
+                "angularVelocity": {
+                    "x": -0.0030789203010499477,
+                    "y": 0.0008469521999359131,
+                    "z": 0.04465348646044731
+                },
+                "rotation": {
+                    "x": -0.00048828122089616954,
+                    "y": 0.005600754637271166,
+                    "z": 1.7694438695907593
+                }
+            }
+        }
+    ]
+}
