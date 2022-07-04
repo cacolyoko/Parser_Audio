@@ -1,0 +1,338 @@
+{
+    "inst_0": [
+        {
+            "word": "aproximo",
+            "stem": "aproxim",
+            "start": 1.1
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 1.6
+        },
+        {
+            "tag": "APROX",
+            "sentence": "aproximo rotonda"
+        }
+    ],
+    "inst_1": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 2.0
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 3.5
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador"
+        }
+    ],
+    "inst_2": [
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 4.1
+        },
+        {
+            "word": "media",
+            "stem": "medi",
+            "start": 7.0
+        },
+        {
+            "tag": "RND-MD",
+            "sentence": "rotonda media"
+        }
+    ],
+    "inst_3": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 7.2
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 8.9
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador"
+        }
+    ],
+    "inst_4": [
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 11.0
+        },
+        {
+            "word": "cerca",
+            "stem": "cerc",
+            "start": 12.0
+        },
+        {
+            "tag": "RND-NR",
+            "sentence": "rotonda cerca"
+        }
+    ],
+    "inst_5": [
+        {
+            "word": "levanto",
+            "stem": "levant",
+            "start": 12.3
+        },
+        {
+            "word": "pie",
+            "stem": "pie",
+            "start": 13.8
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 14.0
+        },
+        {
+            "tag": "T-OFF",
+            "sentence": "levanto pie acelerador"
+        }
+    ],
+    "inst_6": [
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 14.2
+        },
+        {
+            "word": "ocupada",
+            "stem": "ocup",
+            "start": 17.4
+        },
+        {
+            "tag": "L-BUSY",
+            "sentence": "izquierda ocupada"
+        }
+    ],
+    "inst_7": [
+        {
+            "word": "freno",
+            "stem": "fren",
+            "start": 17.9
+        },
+        {
+            "tag": "B-ON",
+            "sentence": "freno"
+        }
+    ],
+    "inst_8": [
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 19.0
+        },
+        {
+            "word": "libre",
+            "stem": "libr",
+            "start": 21.1
+        },
+        {
+            "tag": "L-FREE",
+            "sentence": "izquierda libre"
+        }
+    ],
+    "inst_9": [
+        {
+            "word": "entro",
+            "stem": "entro",
+            "start": 21.5
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 21.9
+        },
+        {
+            "tag": "RND-IN",
+            "sentence": "entro rotonda"
+        }
+    ],
+    "inst_10": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 22.7
+        },
+        {
+            "word": "derecha",
+            "stem": "derech",
+            "start": 24.6
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha"
+        }
+    ],
+    "inst_11": [
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 24.6
+        },
+        {
+            "word": "izquierdo",
+            "stem": "izquierd",
+            "start": 25.9
+        },
+        {
+            "tag": "LB-ON",
+            "sentence": "intermitente izquierdo"
+        }
+    ],
+    "inst_12": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 26.8
+        },
+        {
+            "word": "izquierda",
+            "stem": "izquierd",
+            "start": 28.1
+        },
+        {
+            "tag": "TURN-L",
+            "sentence": "giro izquierda"
+        }
+    ],
+    "inst_13": [
+        {
+            "word": "quito",
+            "stem": "quit",
+            "start": 28.3
+        },
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 30.3
+        },
+        {
+            "tag": "BLK-OFF",
+            "sentence": "quito intermitente"
+        }
+    ],
+    "inst_14": [
+        {
+            "word": "pongo",
+            "stem": "pong",
+            "start": 33.1
+        },
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 33.3
+        },
+        {
+            "word": "derecho",
+            "stem": "derech",
+            "start": 33.8
+        },
+        {
+            "tag": "RB-ON",
+            "sentence": "pongo intermitente derecho"
+        }
+    ],
+    "inst_15": [
+        {
+            "word": "giro",
+            "stem": "gir",
+            "start": 34.2
+        },
+        {
+            "word": "derecha",
+            "stem": "derech",
+            "start": 35.0
+        },
+        {
+            "tag": "TURN-R",
+            "sentence": "giro derecha"
+        }
+    ],
+    "inst_16": [
+        {
+            "word": "segunda",
+            "stem": "segund",
+            "start": 35.1
+        },
+        {
+            "word": "salida",
+            "stem": "sal",
+            "start": 36.4
+        },
+        {
+            "tag": "EXIT-2",
+            "sentence": "segunda salida"
+        }
+    ],
+    "inst_17": [
+        {
+            "word": "salgo",
+            "stem": "salg",
+            "start": 36.7
+        },
+        {
+            "word": "rotonda",
+            "stem": "rotond",
+            "start": 38.1
+        },
+        {
+            "tag": "RND-EXIT",
+            "sentence": "salgo rotonda"
+        }
+    ],
+    "inst_18": [
+        {
+            "word": "quito",
+            "stem": "quit",
+            "start": 38.5
+        },
+        {
+            "word": "intermitente",
+            "stem": "intermitent",
+            "start": 39.8
+        },
+        {
+            "tag": "BLK-OFF",
+            "sentence": "quito intermitente"
+        }
+    ],
+    "inst_19": [
+        {
+            "word": "mantengo",
+            "stem": "manteng",
+            "start": 41.4
+        },
+        {
+            "word": "acelerador",
+            "stem": "aceler",
+            "start": 41.9
+        },
+        {
+            "tag": "T-HOLD",
+            "sentence": "mantengo acelerador"
+        }
+    ],
+    "inst_20": [
+        {
+            "word": "recto",
+            "stem": "rect",
+            "start": 42.2
+        },
+        {
+            "tag": "STR",
+            "sentence": "recto"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+[
+    {
+        "word": "aproximo",
+        "stem": "aproxim",
+        "start": 1.2
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 1.6
+    },
+    {
+        "word": "mantengo",
+        "stem": "manteng",
+        "start": 1.8
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 2.7
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 3.2
+    },
+    {
+        "word": "media",
+        "stem": "medi",
+        "start": 5.7
+    },
+    {
+        "word": "mantengo",
+        "stem": "manteng",
+        "start": 6.0
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 6.8
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 7.3
+    },
+    {
+        "word": "cerca",
+        "stem": "cerc",
+        "start": 9.5
+    },
+    {
+        "word": "levanto",
+        "stem": "levant",
+        "start": 10.2
+    },
+    {
+        "word": "pie",
+        "stem": "pie",
+        "start": 10.9
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 11.1
+    },
+    {
+        "word": "izquierda",
+        "stem": "izquierd",
+        "start": 11.3
+    },
+    {
+        "word": "libre",
+        "stem": "libr",
+        "start": 13.3
+    },
+    {
+        "word": "entro",
+        "stem": "entro",
+        "start": 13.8
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 14.7
+    },
+    {
+        "word": "giro",
+        "stem": "gir",
+        "start": 15.0
+    },
+    {
+        "word": "derecha",
+        "stem": "derech",
+        "start": 15.8
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 15.9
+    },
+    {
+        "word": "izquierda",
+        "stem": "izquierd",
+        "start": 17.0
+    },
+    {
+        "word": "giro",
+        "stem": "gir",
+        "start": 17.7
+    },
+    {
+        "word": "izquierda",
+        "stem": "izquierd",
+        "start": 18.2
+    },
+    {
+        "word": "mantengo",
+        "stem": "manteng",
+        "start": 18.3
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 20.6
+    },
+    {
+        "word": "mantengo",
+        "stem": "manteng",
+        "start": 21.2
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 25.3
+    },
+    {
+        "word": "quito",
+        "stem": "quit",
+        "start": 28.9
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 29.1
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 29.7
+    },
+    {
+        "word": "derecha",
+        "stem": "derech",
+        "start": 30.1
+    },
+    {
+        "word": "cuarta",
+        "stem": "cuart",
+        "start": 31.0
+    },
+    {
+        "word": "salida",
+        "stem": "sal",
+        "start": 31.5
+    },
+    {
+        "word": "giro",
+        "stem": "gir",
+        "start": 31.7
+    },
+    {
+        "word": "derecha",
+        "stem": "derech",
+        "start": 32.6
+    },
+    {
+        "word": "salgo",
+        "stem": "salg",
+        "start": 32.6
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 34.4
+    },
+    {
+        "word": "quito",
+        "stem": "quit",
+        "start": 34.8
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 36.4
+    },
+    {
+        "word": "acelero",
+        "stem": "aceler",
+        "start": 37.1
+    },
+    {
+        "word": "recto",
+        "stem": "rect",
+        "start": 38.7
+    }
+]

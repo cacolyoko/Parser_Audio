@@ -1,0 +1,142 @@
+[
+    {
+        "word": "aproximo",
+        "start": 1.2
+    },
+    {
+        "word": "rotonda",
+        "start": 1.7
+    },
+    {
+        "word": "mantengo",
+        "start": 2.2
+    },
+    {
+        "word": "acelerador",
+        "start": 4.0
+    },
+    {
+        "word": "rotonda",
+        "start": 4.6
+    },
+    {
+        "word": "media",
+        "start": 6.0
+    },
+    {
+        "word": "mantengo",
+        "start": 6.3
+    },
+    {
+        "word": "acelerador",
+        "start": 7.6
+    },
+    {
+        "word": "rotonda",
+        "start": 8.2
+    },
+    {
+        "word": "cerca",
+        "start": 9.9
+    },
+    {
+        "word": "levanto",
+        "start": 10.3
+    },
+    {
+        "word": "pie",
+        "start": 11.1
+    },
+    {
+        "word": "acelerador",
+        "start": 11.3
+    },
+    {
+        "word": "izquierda",
+        "start": 11.6
+    },
+    {
+        "word": "ocupada",
+        "start": 14.1
+    },
+    {
+        "word": "freno",
+        "start": 15.1
+    },
+    {
+        "word": "izquierda",
+        "start": 16.1
+    },
+    {
+        "word": "ocupada",
+        "start": 21.5
+    },
+    {
+        "word": "izquierda",
+        "start": 22.5
+    },
+    {
+        "word": "libre",
+        "start": 26.4
+    },
+    {
+        "word": "entro",
+        "start": 27.0
+    },
+    {
+        "word": "rotonda",
+        "start": 28.4
+    },
+    {
+        "word": "giro",
+        "start": 28.7
+    },
+    {
+        "word": "derecha",
+        "start": 30.1
+    },
+    {
+        "word": "intermitente",
+        "start": 30.2
+    },
+    {
+        "word": "derecha",
+        "start": 31.4
+    },
+    {
+        "word": "primera",
+        "start": 32.2
+    },
+    {
+        "word": "salida",
+        "start": 32.9
+    },
+    {
+        "word": "salgo",
+        "start": 33.2
+    },
+    {
+        "word": "rotonda",
+        "start": 36.0
+    },
+    {
+        "word": "atención",
+        "start": 37.9
+    },
+    {
+        "word": "coche",
+        "start": 38.3
+    },
+    {
+        "word": "freno",
+        "start": 38.7
+    },
+    {
+        "word": "quito",
+        "start": 39.1
+    },
+    {
+        "word": "intermitente",
+        "start": 39.5
+    }
+]

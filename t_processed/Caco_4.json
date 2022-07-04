@@ -1,0 +1,134 @@
+[
+    {
+        "word": "acelero",
+        "start": 0.4
+    },
+    {
+        "word": "aproximo",
+        "start": 1.0
+    },
+    {
+        "word": "rotonda",
+        "start": 2.0
+    },
+    {
+        "word": "rotonda",
+        "start": 7.0
+    },
+    {
+        "word": "media",
+        "start": 7.8
+    },
+    {
+        "word": "mantengo",
+        "start": 8.8
+    },
+    {
+        "word": "acelerador",
+        "start": 9.5
+    },
+    {
+        "word": "rotonda",
+        "start": 10.1
+    },
+    {
+        "word": "cerca",
+        "start": 11.5
+    },
+    {
+        "word": "levanto",
+        "start": 11.8
+    },
+    {
+        "word": "pie",
+        "start": 13.5
+    },
+    {
+        "word": "acelerador",
+        "start": 13.6
+    },
+    {
+        "word": "izquierda",
+        "start": 13.8
+    },
+    {
+        "word": "ocupada",
+        "start": 15.8
+    },
+    {
+        "word": "freno",
+        "start": 16.3
+    },
+    {
+        "word": "izquierda",
+        "start": 18.8
+    },
+    {
+        "word": "libre",
+        "start": 19.3
+    },
+    {
+        "word": "acelero",
+        "start": 19.7
+    },
+    {
+        "word": "entro",
+        "start": 21.2
+    },
+    {
+        "word": "rotonda",
+        "start": 21.9
+    },
+    {
+        "word": "giro",
+        "start": 22.2
+    },
+    {
+        "word": "derecha",
+        "start": 23.6
+    },
+    {
+        "word": "intermitente",
+        "start": 24.2
+    },
+    {
+        "word": "derecha",
+        "start": 25.7
+    },
+    {
+        "word": "primera",
+        "start": 25.8
+    },
+    {
+        "word": "salida",
+        "start": 26.6
+    },
+    {
+        "word": "salgo",
+        "start": 26.9
+    },
+    {
+        "word": "rotonda",
+        "start": 27.3
+    },
+    {
+        "word": "intermitente",
+        "start": 28.3
+    },
+    {
+        "word": "intermitente",
+        "start": 28.6
+    },
+    {
+        "word": "atención",
+        "start": 29.0
+    },
+    {
+        "word": "coche",
+        "start": 30.0
+    },
+    {
+        "word": "freno",
+        "start": 30.9
+    }
+]

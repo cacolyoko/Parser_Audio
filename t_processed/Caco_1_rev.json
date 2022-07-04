@@ -1,0 +1,152 @@
+[
+    {
+        "word": "aproximo",
+        "stem": "aproxim",
+        "start": 1.5
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 2.0
+    },
+    {
+        "word": "acelero",
+        "stem": "aceler",
+        "start": 2.6
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 6.4
+    },
+    {
+        "word": "media",
+        "stem": "medi",
+        "start": 7.0
+    },
+    {
+        "word": "mantengo",
+        "stem": "manteng",
+        "start": 7.2
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 8.0
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 10.7
+    },
+    {
+        "word": "cerca",
+        "stem": "cerc",
+        "start": 11.6
+    },
+    {
+        "word": "levanto",
+        "stem": "levant",
+        "start": 11.9
+    },
+    {
+        "word": "pie",
+        "stem": "pie",
+        "start": 12.8
+    },
+    {
+        "word": "acelerador",
+        "stem": "aceler",
+        "start": 13.0
+    },
+    {
+        "word": "izquierda",
+        "stem": "izquierd",
+        "start": 14.6
+    },
+    {
+        "word": "libre",
+        "stem": "libr",
+        "start": 15.7
+    },
+    {
+        "word": "acelero",
+        "stem": "aceler",
+        "start": 16.1
+    },
+    {
+        "word": "entro",
+        "stem": "entro",
+        "start": 17.6
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 18.2
+    },
+    {
+        "word": "giro",
+        "stem": "gir",
+        "start": 19.5
+    },
+    {
+        "word": "derecha",
+        "stem": "derech",
+        "start": 20.7
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 21.2
+    },
+    {
+        "word": "derecha",
+        "stem": "derech",
+        "start": 23.2
+    },
+    {
+        "word": "primera",
+        "stem": "primer",
+        "start": 24.3
+    },
+    {
+        "word": "salida",
+        "stem": "sal",
+        "start": 25.6
+    },
+    {
+        "word": "salgo",
+        "stem": "salg",
+        "start": 25.9
+    },
+    {
+        "word": "rotonda",
+        "stem": "rotond",
+        "start": 26.8
+    },
+    {
+        "word": "quito",
+        "stem": "quit",
+        "start": 27.1
+    },
+    {
+        "word": "intermitente",
+        "stem": "intermitent",
+        "start": 28.5
+    },
+    {
+        "word": "atención",
+        "stem": "atencion",
+        "start": 29.2
+    },
+    {
+        "word": "coche",
+        "stem": "coch",
+        "start": 29.9
+    },
+    {
+        "word": "freno",
+        "stem": "fren",
+        "start": 30.3
+    }
+]

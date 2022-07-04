@@ -1,0 +1,166 @@
+[
+    {
+        "word": "acelero",
+        "start": 0.0
+    },
+    {
+        "word": "aproximo",
+        "start": 2.3
+    },
+    {
+        "word": "rotonda",
+        "start": 2.8
+    },
+    {
+        "word": "rotonda",
+        "start": 3.3
+    },
+    {
+        "word": "media",
+        "start": 7.2
+    },
+    {
+        "word": "mantengo",
+        "start": 7.6
+    },
+    {
+        "word": "acelerador",
+        "start": 8.4
+    },
+    {
+        "word": "rotonda",
+        "start": 9.0
+    },
+    {
+        "word": "cerca",
+        "start": 10.9
+    },
+    {
+        "word": "levanto",
+        "start": 11.2
+    },
+    {
+        "word": "pie",
+        "start": 11.8
+    },
+    {
+        "word": "acelerador",
+        "start": 12.0
+    },
+    {
+        "word": "izquierda",
+        "start": 12.2
+    },
+    {
+        "word": "ocupada",
+        "start": 14.1
+    },
+    {
+        "word": "freno",
+        "start": 14.5
+    },
+    {
+        "word": "izquierda",
+        "start": 25.7
+    },
+    {
+        "word": "libre",
+        "start": 26.8
+    },
+    {
+        "word": "entro",
+        "start": 27.8
+    },
+    {
+        "word": "rotonda",
+        "start": 29.3
+    },
+    {
+        "word": "acelero",
+        "start": 29.6
+    },
+    {
+        "word": "giro",
+        "start": 32.6
+    },
+    {
+        "word": "derecha",
+        "start": 33.4
+    },
+    {
+        "word": "intermitente",
+        "start": 34.0
+    },
+    {
+        "word": "izquierda",
+        "start": 34.4
+    },
+    {
+        "word": "gira",
+        "start": 34.9
+    },
+    {
+        "word": "izquierda",
+        "start": 35.4
+    },
+    {
+        "word": "quito",
+        "start": 36.5
+    },
+    {
+        "word": "intermitente",
+        "start": 37.0
+    },
+    {
+        "word": "segunda",
+        "start": 37.8
+    },
+    {
+        "word": "salida",
+        "start": 38.2
+    },
+    {
+        "word": "intermitente",
+        "start": 38.6
+    },
+    {
+        "word": "derecha",
+        "start": 39.5
+    },
+    {
+        "word": "giro",
+        "start": 40.3
+    },
+    {
+        "word": "derecha",
+        "start": 40.8
+    },
+    {
+        "word": "salgo",
+        "start": 41.3
+    },
+    {
+        "word": "rotonda",
+        "start": 42.1
+    },
+    {
+        "word": "quito",
+        "start": 45.8
+    },
+    {
+        "word": "intermitente",
+        "start": 46.1
+    },
+    {
+        "word": "mantengo",
+        "start": 46.8
+    },
+    {
+        "word": "acelerador",
+        "start": 47.2
+    },
+    {
+        "word": "recto",
+        "start": 48.4
+    }
+]
