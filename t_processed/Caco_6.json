@@ -112,7 +112,7 @@
         "start": 37.3
     },
     {
-        "word": "gira",
+        "word": "giro",
         "start": 37.7
     },
     {
@@ -126,6 +126,14 @@
     {
         "word": "rotonda",
         "start": 39.5
+    },
+    {
+        "word": "quito",
+        "start": 40.4
+    },
+    {
+        "word": "intermitente",
+        "start": 40.8
     },
     {
         "word": "mantengo",

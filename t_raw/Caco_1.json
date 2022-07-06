@@ -1,1 +1,122 @@
-[{"word": "próxima", "start": 1.5}, {"word": "rotonda", "start": 2.0}, {"word": "acelero", "start": 2.6}, {"word": "rotonda", "start": 3.9}, {"word": "media", "start": 7.0}, {"word": "mantengo", "start": 7.2}, {"word": "acelerador", "start": 8.0}, {"word": "rotonda", "start": 8.7}, {"word": "cerca", "start": 11.6}, {"word": "levanto", "start": 11.9}, {"word": "pie", "start": 12.8}, {"word": "acelerador", "start": 13.0}, {"word": "izquierda", "start": 13.2}, {"word": "libre", "start": 15.7}, {"word": "acelero", "start": 16.1}, {"word": "entro", "start": 17.6}, {"word": "rotonda", "start": 18.2}, {"word": "giro", "start": 18.5}, {"word": "derecha", "start": 20.7}, {"word": "intermitente", "start": 21.2}, {"word": "derecha", "start": 23.2}, {"word": "primera", "start": 23.7}, {"word": "salida", "start": 25.6}, {"word": "salgo", "start": 25.9}, {"word": "rotonda", "start": 26.8}, {"word": "quito", "start": 27.1}, {"word": "intermitente", "start": 28.5}, {"word": "atención", "start": 29.2}, {"word": "coche", "start": 29.9}, {"word": "freno", "start": 30.3}]
+[
+    {
+        "word": "próxima",
+        "start": 1.5
+    },
+    {
+        "word": "rotonda",
+        "start": 2.0
+    },
+    {
+        "word": "acelero",
+        "start": 2.6
+    },
+    {
+        "word": "rotonda",
+        "start": 3.9
+    },
+    {
+        "word": "media",
+        "start": 7.0
+    },
+    {
+        "word": "mantengo",
+        "start": 7.2
+    },
+    {
+        "word": "acelerador",
+        "start": 8.0
+    },
+    {
+        "word": "rotonda",
+        "start": 8.7
+    },
+    {
+        "word": "cerca",
+        "start": 11.6
+    },
+    {
+        "word": "levanto",
+        "start": 11.9
+    },
+    {
+        "word": "pie",
+        "start": 12.8
+    },
+    {
+        "word": "acelerador",
+        "start": 13.0
+    },
+    {
+        "word": "izquierda",
+        "start": 13.2
+    },
+    {
+        "word": "libre",
+        "start": 15.7
+    },
+    {
+        "word": "acelero",
+        "start": 16.1
+    },
+    {
+        "word": "entro",
+        "start": 17.6
+    },
+    {
+        "word": "rotonda",
+        "start": 18.2
+    },
+    {
+        "word": "giro",
+        "start": 18.5
+    },
+    {
+        "word": "derecha",
+        "start": 20.7
+    },
+    {
+        "word": "intermitente",
+        "start": 21.2
+    },
+    {
+        "word": "derecha",
+        "start": 23.2
+    },
+    {
+        "word": "primera",
+        "start": 23.7
+    },
+    {
+        "word": "salida",
+        "start": 25.6
+    },
+    {
+        "word": "salgo",
+        "start": 25.9
+    },
+    {
+        "word": "rotonda",
+        "start": 26.8
+    },
+    {
+        "word": "quito",
+        "start": 27.1
+    },
+    {
+        "word": "intermitente",
+        "start": 28.5
+    },
+    {
+        "word": "atención",
+        "start": 29.2
+    },
+    {
+        "word": "coche",
+        "start": 29.9
+    },
+    {
+        "word": "freno",
+        "start": 30.3
+    }
+]

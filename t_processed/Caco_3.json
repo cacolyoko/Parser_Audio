@@ -1,6 +1,6 @@
 [
     {
-        "word": "aproxima",
+        "word": "aproximo",
         "start": 1.2
     },
     {
@@ -146,6 +146,14 @@
     {
         "word": "derecha",
         "start": 48.1
+    },
+    {
+        "word": "salgo",
+        "start": 48.7
+    },
+    {
+        "word": "rotonda",
+        "start": 49.2
     },
     {
         "word": "quito",
